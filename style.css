@@ -21,6 +21,11 @@ html {
     background: #cfc;
 }
 
+.header p {
+    text-align: center;
+    line-height: 50px;
+}
+
 .main {
     flex: 1;
     overflow: auto;
